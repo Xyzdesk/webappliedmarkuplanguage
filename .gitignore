@@ -1,11 +1,10 @@
-# Xojo (formerly REALbasic and Real Studio)
-
-Builds*
-*.debug
-*.debug.app
-Debug*.exe
-Debug*/Debug*.exe
-Debug*/Debug*\ Libs
-*.rbuistate
-*.xojo_uistate
-*.obsolete
+<WAML ?version=v3>
+              <gitignore>
+                      <er>Builds
+                          *.waml
+                          *.wml
+                          *.whtml
+                          *.waht
+                      </er>
+              </gitignore>
+</WAML ?version=v4>
