@@ -1,0 +1,11 @@
+<!WAML ?version=v3>
+    <WAML>
+              	<gitignore>
+                      	<er>Builds
+                          	*.waml
+                          	*.wml
+                          	*.whtml
+                          	*.waht
+                      	</er>
+              	</gitignore>
+    </WAML>
