@@ -1,0 +1,10 @@
+<--! More flexable than XML! -->
+
+<!WAML version=v3>
+<waml>
+        <head></head>
+        <body>
+        <para>Hello World!</para>
+        </body>
+        <foot></foot>
+</waml>
