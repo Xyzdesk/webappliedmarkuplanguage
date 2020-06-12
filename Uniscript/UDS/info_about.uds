@@ -1,0 +1,7 @@
+What is UDS?
+UDS stands for Uniscript Defined Sets and is used by UniEnviro
+and other programs that run on Uniscript to set different settings,
+etc.
+
+Why is UDS used?
+Uniscript cannot understand/parse JSON, YAML or XML.
