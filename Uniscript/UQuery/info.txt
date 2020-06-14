@@ -1,0 +1,1 @@
+UQuery is like what XQuery is to XML, or JQuery is to JavaScript, virtually. It also is used by WAML instead of JQuery.

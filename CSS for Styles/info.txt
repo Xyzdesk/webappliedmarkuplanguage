@@ -1,0 +1,1 @@
+WAML uses CSS to format text. It also uses class= and col= tags, but it is more efficient coloring and styling text in CSS
